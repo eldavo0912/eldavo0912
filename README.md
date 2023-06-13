@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning kotlin, and java
 - 📫 How to reach me: 
 
-email: davimartins444@gmail.com
